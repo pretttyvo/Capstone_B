@@ -1,0 +1,810 @@
+Year,Lab No,Age,Sex,Active inflammation?,Mucosal surface,Crypt architecture,Crypt profiles,Increased lamina propria cellularity?,Mild & superficial increase in lamina propria cellularity?,Increased lymphoid aggregates in lamina propria?,Patchy lamina propria cellularity?,Marked & transmucosal increase in lamina propria cellularity,Cryptitis extent,Cryptitis polymorphs,Crypt abscesses extent,Crypt abscesses polymorphs,Lamina propria polymorphs,Epithelial changes,Mucin depletion,Intraepithelial lymphocytes,Subepithelial collagen,Lamina propria granulomas,Submucosal granulomas,Basal histiocytic cells,Confirmed diagnosis,Method of confirmation,Initial pathologists diagnosis,Observing pathologists diagnosis
+92,5213,21,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,Normal,Normal
+90,805,56,1,1,1,3,4,1,0,0,0,1,2,1,0,0,2,3,1,0,0,0,0,0,UC,Endoscopy,IBD ?UC,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+90,5957,59,0,1,1,1,7,1,0,0,1,0,0,0,0,0,1,2,0,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, active",Inflammation - unclassified
+92,9207,66,0,0,1,1,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,"Non-specific inflammation, chronic",Chronic idiopathic IBD - indeterminate
+95,14469,23,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Crohns,Endoscopy,"Non-specific inflammation, chronic",Normal
+95,13988,16,0,1,0,0,7,1,0,0,1,0,2,2,0,0,1,2,1,0,0,1,0,1,Crohns,Endoscopy,Crohns,Chronic idiopathic IBD - highly suggestive of Crohn's disease
+90,9625,26,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+92,3689,20,1,1,1,1,7,1,0,0,1,0,1,1,0,0,1,3,1,0,0,0,0,0,Crohns,Endoscopy,Crohns,Chronic idiopathic IBD - suggestive of Crohn's disease
+90,3861,23,0,0,0,1,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - indeterminate
+91,8133,32,1,1,0,0,7,1,0,0,1,0,1,1,0,0,1,0,0,0,0,0,0,1,Crohns,Resection,Crohns,Chronic idiopathic IBD - suggestive of Crohn's disease
+91,11695,32,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,UC,Normal
+95,21696,47,1,1,0,1,7,1,0,0,0,1,1,1,0,0,2,0,0,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+90,12075,45,1,0,0,1,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+90,8915,48,1,0,1,2,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - indeterminate
+92,9191,67,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+92,6108,41,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, quiescent",Normal
+92,1813,71,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,Normal,Normal
+91,6092,26,0,0,0,0,7,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,UC,Inflammation - unclassified
+90,10870,45,0,1,1,2,7,1,0,0,0,1,2,1,0,0,2,2,2,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+90,7770,21,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,IBD ?UC,Normal
+96,6101,43,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+90,10573,57,0,1,1,2,7,1,0,0,1,0,1,1,1,1,1,0,1,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - indeterminate
+90,8996,45,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,UC,Normal
+95,14929,67,1,1,0,1,7,1,0,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - suggestive of ulcerative colitis
+90,5692,25,1,1,0,0,7,1,0,1,0,0,0,0,0,0,1,3,0,0,0,0,0,0,Crohns,Endoscopy,"Non-specific inflammation, chronic",Chronic idiopathic IBD - indeterminate
+92,10979,22,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+96,6418,75,0,1,0,2,6,1,0,0,0,1,3,2,1,2,2,1,3,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, active",Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+92,6138,80,1,1,0,0,7,1,0,0,0,1,2,2,0,0,2,1,1,0,0,0,0,0,Crohns,Endoscopy,IBD ?Crohns,Inflammation - unclassified
+94,4146,32,0,1,0,0,7,1,1,0,0,0,1,1,0,0,2,1,1,0,0,0,0,0,Crohns,Endoscopy,Crohns,Infective type colitis
+93,16337,55,0,1,0,0,7,1,0,0,1,0,1,1,0,0,1,0,0,0,0,0,0,0,Crohns,Resection,Crohns,Chronic idiopathic IBD - indeterminate
+96,23862,21,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+96,7592,26,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+96,4932,30,0,0,0,0,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Inflammation - unclassified
+96,8230,48,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+91,886,45,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Crohns,Endoscopy,"Non-specific inflammation, chronic",Normal
+91,477,44,1,0,0,1,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,"Non-specific inflammation, chronic",Chronic idiopathic IBD - indeterminate
+91,2534,26,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Crohns,Endoscopy,"IBD indeterminate, quiescent",Normal
+91,3928,51,1,0,0,0,7,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,UC,Endoscopy,"IBD indeterminate, quiescent",Inflammation - unclassified
+90,414,54,0,1,0,0,7,1,0,0,0,1,2,2,1,1,2,2,1,0,0,0,0,1,Crohns,Endoscopy,Crohns,Chronic idiopathic IBD - suggestive of ulcerative colitis
+91,13600,23,1,1,1,1,7,1,0,0,0,1,2,1,0,0,2,3,1,0,0,0,0,0,Crohns,Endoscopy,"IBD indeterminate, active",Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+96,859,59,0,1,0,1,7,1,0,0,1,0,1,2,0,0,1,0,1,0,0,0,0,1,UC,Endoscopy,UC,Chronic idiopathic IBD - suggestive of Crohn's disease
+91,13883,29,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+92,9125,21,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Crohns,Endoscopy,"IBD indeterminate, active",Normal
+91,13223,65,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+91,6148,27,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+92,9712,35,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+90,7129,35,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Crohns,Endoscopy,Normal,Normal
+93,2604,45,1,1,0,0,7,1,0,0,1,0,1,1,1,1,1,0,0,0,0,0,0,0,Crohns,Endoscopy,"IBD indeterminate, active",Chronic idiopathic IBD - indeterminate
+92,7113,25,1,1,0,1,7,1,0,0,0,1,1,1,0,0,2,0,0,0,0,0,0,0,Crohns,Endoscopy,Crohns,Chronic idiopathic IBD - suggestive of ulcerative colitis
+91,12894,67,1,1,0,1,7,1,0,0,0,1,1,1,0,0,2,2,1,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, active",Chronic idiopathic IBD - suggestive of ulcerative colitis
+95,12588,25,1,1,1,1,7,1,0,0,1,0,1,1,1,1,1,1,1,0,0,1,0,1,Crohns,Endoscopy,Crohns,Chronic idiopathic IBD - highly suggestive of Crohn's disease
+92,5184,23,1,0,0,1,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,"Non-specific inflammation, chronic",Chronic idiopathic IBD - indeterminate
+94,22745,77,0,1,1,1,7,1,0,0,1,0,1,2,0,0,1,0,0,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, active",Chronic idiopathic IBD - suggestive of Crohn's disease
+96,6412,34,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+96,2677,43,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+92,8606,56,0,1,2,2,5,1,0,0,0,1,2,1,1,2,2,3,2,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+91,11905,56,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+92,150,37,1,0,1,1,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - suggestive of ulcerative colitis
+90,2966,64,1,1,1,1,7,1,0,0,0,1,1,1,1,1,2,3,1,0,0,0,0,1,Crohns,Endoscopy,"IBD indeterminate, active",Chronic idiopathic IBD - suggestive of ulcerative colitis
+96,23869,53,0,1,1,1,7,1,0,0,1,0,1,1,0,0,1,0,0,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, active",Chronic idiopathic IBD - indeterminate
+92,13267,56,0,1,2,2,7,1,0,0,0,1,2,2,1,2,2,3,3,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+91,3605,68,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Crohns,Endoscopy,"IBD indeterminate, quiescent",Normal
+96,23367,61,1,0,1,2,4,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,UC,Resection,UC,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+94,20849,33,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+96,15406,43,1,1,0,1,7,1,0,0,0,1,2,1,0,0,2,0,1,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, active",Chronic idiopathic IBD - suggestive of ulcerative colitis
+91,115,29,0,0,1,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Crohns,Endoscopy,"Non-specific inflammation, chronic",Normal
+96,4936,33,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,UC,Normal
+90,10262,31,1,1,2,2,7,1,0,0,0,1,2,1,1,1,2,3,1,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+96,4430,35,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+92,7493,46,0,1,1,1,7,1,0,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, active",Chronic idiopathic IBD - indeterminate
+92,4649,34,0,1,1,1,5,1,0,0,0,1,2,1,0,0,2,2,2,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+92,3585,42,0,1,1,1,7,1,0,0,0,1,1,1,0,0,2,3,1,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+91,10847,36,1,0,0,0,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, active",Inflammation - unclassified
+93,7222,57,0,1,1,1,7,1,0,0,0,1,1,1,0,0,1,0,1,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - suggestive of ulcerative colitis
+96,5895,38,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,Normal,Normal
+91,11301,65,1,0,1,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Crohns,Resection,"IBD indeterminate, quiescent",Normal
+91,9119,54,0,0,1,1,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - indeterminate
+92,11221,20,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,Normal,Normal
+96,13567,32,0,1,1,2,7,1,0,0,1,0,2,2,1,2,1,3,2,0,0,0,0,1,UC,Endoscopy,UC,Chronic idiopathic IBD - suggestive of Crohn's disease
+95,19290,61,0,1,0,2,7,1,0,0,1,0,1,1,0,0,1,0,1,0,0,0,0,1,UC,Endoscopy,UC,Chronic idiopathic IBD - indeterminate
+91,6374,35,1,1,0,1,7,1,0,0,1,0,2,1,0,0,1,2,0,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, active",Infective type colitis
+90,4158,56,1,1,1,1,7,1,0,0,0,1,1,1,0,0,2,3,1,0,0,0,0,0,UC,Endoscopy,IBD ?UC,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+89,12718,41,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,Normal,Normal
+95,905,75,0,1,0,1,7,1,0,0,1,0,1,1,0,0,1,2,1,0,0,1,1,0,Crohns,Endoscopy,Crohns,Chronic idiopathic IBD - highly suggestive of Crohn's disease
+90,334,43,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Crohns,Endoscopy,Normal,Normal
+90,11589,66,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Crohns,Endoscopy,Crohns,Normal
+91,11164,38,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, quiescent",Normal
+92,5214,30,0,1,2,1,7,1,0,1,0,0,1,1,0,0,1,2,0,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - suggestive of ulcerative colitis
+92,2291,77,1,1,0,2,5,1,0,0,0,1,1,1,0,0,1,0,1,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - indeterminate
+95,13333,63,0,0,0,0,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Crohns,Endoscopy,Crohns,Inflammation - unclassified
+90,770,27,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Crohns,Endoscopy,"Non-specific inflammation, chronic",Normal
+91,7208,26,0,1,0,0,7,1,0,0,1,0,1,1,0,0,1,0,0,0,0,1,0,0,Crohns,Endoscopy,Crohns,Chronic idiopathic IBD - highly suggestive of Crohn's disease
+96,16014,44,0,1,0,0,7,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,Crohns,Resection,Crohns,Inflammation - unclassified
+95,14468,65,1,1,1,2,6,1,0,0,0,1,3,2,0,0,2,1,2,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+95,18876,37,0,1,1,2,4,1,0,0,0,1,2,1,1,3,2,1,1,0,0,0,0,1,UC,Endoscopy,UC,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+95,13864,77,0,1,0,2,7,1,0,0,0,1,2,1,1,2,2,3,2,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, active",Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+95,14526,49,0,1,1,2,6,1,0,0,0,1,1,1,0,0,1,1,1,0,0,0,0,0,Normal,Endoscopy,Normal,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+90,14542,38,0,1,0,1,7,1,0,0,0,1,2,2,2,1,2,2,3,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+91,10656,54,1,0,0,0,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,UC,Inflammation - unclassified
+91,5909,22,1,1,0,0,7,1,0,0,1,0,3,2,0,0,1,1,2,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - indeterminate
+91,2471,21,0,0,1,1,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, active",Chronic idiopathic IBD - indeterminate
+95,3678,52,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,UC,Normal
+91,2509,44,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Crohns,Endoscopy,"Non-specific inflammation, chronic",Normal
+90,14773,26,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, quiescent",Normal
+91,13427,38,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,Normal,Normal
+91,4714,44,0,1,1,1,7,1,0,0,0,1,2,2,1,2,2,3,2,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+91,12047,53,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+91,1693,75,1,1,0,1,7,1,0,0,0,1,1,1,0,0,2,1,1,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - suggestive of ulcerative colitis
+95,23567,37,1,1,1,1,7,1,0,0,0,1,1,1,0,0,1,1,0,0,0,0,0,1,UC,Endoscopy,"IBD indeterminate, active",Chronic idiopathic IBD - indeterminate
+95,1995,19,1,0,0,0,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Crohns,Endoscopy,Normal,Inflammation - unclassified
+91,3327,54,1,1,0,1,7,1,0,0,0,1,1,1,0,0,1,1,1,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - suggestive of ulcerative colitis
+94,6185,63,0,0,0,0,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Inflammation - unclassified
+94,15508,57,0,1,2,2,7,1,0,0,0,1,2,2,1,2,2,3,1,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+91,13420,50,1,1,0,1,7,1,0,0,0,1,2,1,0,0,2,3,1,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+91,2528,22,0,1,1,2,7,1,0,0,0,1,2,2,2,1,2,2,1,0,0,0,0,0,UC,Endoscopy,IBD ?UC,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+92,8616,46,0,1,0,0,7,1,0,0,1,0,1,1,0,0,1,0,0,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, quiescent",Inflammation - unclassified
+92,10799,27,1,1,0,0,7,1,0,0,1,0,1,1,0,0,1,3,1,0,0,0,0,0,Crohns,Endoscopy,IBD ?Crohns,Chronic idiopathic IBD - indeterminate
+90,13247,27,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+87,12999,39,1,0,0,0,7,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,UC,Endoscopy,"IBD indeterminate, active",Inflammation - unclassified
+90,9500,74,1,1,1,1,7,1,0,0,1,0,1,2,0,0,1,0,1,0,0,0,0,0,Crohns,Endoscopy,Crohns,Chronic idiopathic IBD - indeterminate
+90,11474,35,0,0,1,2,6,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, quiescent",Chronic idiopathic IBD - indeterminate
+90,14704,47,0,1,0,1,7,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, quiescent",Chronic idiopathic IBD - indeterminate
+92,1940,78,1,1,0,1,7,1,0,0,0,1,2,2,2,2,2,2,2,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+96,2368,50,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+90,6042,58,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+92,7789,63,1,1,1,1,7,1,0,1,0,0,0,0,0,0,1,3,1,0,0,0,0,0,Crohns,Endoscopy,Crohns,Chronic idiopathic IBD - suggestive of ulcerative colitis
+96,14603,58,0,0,1,1,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - indeterminate
+92,6286,71,1,1,1,2,7,1,0,1,0,0,1,1,0,0,1,0,1,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - indeterminate
+93,1250,45,0,1,0,3,4,1,0,0,0,1,2,1,0,0,2,2,2,0,0,0,0,0,UC,Resection,UC,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+90,14788,25,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Crohns,Endoscopy,Normal,Normal
+91,527,46,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, quiescent",Normal
+92,1535,40,0,0,0,0,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,UC,Inflammation - unclassified
+95,23565,35,0,1,0,0,7,1,0,0,1,0,2,1,0,0,1,0,1,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, active",Chronic idiopathic IBD - indeterminate
+91,2475,39,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,Normal,Normal
+92,8696,32,1,1,0,1,7,1,0,0,0,1,1,1,0,0,1,2,1,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - indeterminate
+90,13224,20,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+92,10131,30,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+95,21024,53,1,0,0,0,7,1,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Inflammation - unclassified
+88,10763,36,1,0,1,1,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - suggestive of ulcerative colitis
+96,18991,32,1,1,0,0,7,1,0,0,1,0,1,1,1,2,1,2,2,0,0,0,0,0,UC,Resection,IBD ?UC,Chronic idiopathic IBD - indeterminate
+91,2715,76,1,1,0,1,7,1,0,0,1,0,1,1,1,3,1,2,2,0,0,0,0,1,UC,Endoscopy,IBD ?UC,Chronic idiopathic IBD - indeterminate
+91,1084,60,1,1,0,0,7,1,0,0,1,0,1,2,1,2,1,2,1,0,0,0,0,0,Crohns,Endoscopy,Crohns,Chronic idiopathic IBD - suggestive of Crohn's disease
+91,10370,67,1,1,0,0,7,1,0,0,1,0,2,2,2,3,1,1,0,0,0,0,0,0,UC,Endoscopy,IBD ?UC,Chronic idiopathic IBD - indeterminate
+90,11907,59,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+94,19814,55,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+91,8853,45,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,Normal - oedema,Normal
+91,12033,72,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+95,14430,70,1,1,0,0,7,1,0,0,1,0,1,1,0,0,1,0,0,0,0,0,0,0,Crohns,Endoscopy,Crohns,Inflammation - unclassified
+91,13138,76,1,1,1,2,4,1,0,0,0,1,2,1,1,2,2,1,2,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+95,13963,16,1,1,0,0,7,1,0,0,0,1,2,1,1,1,2,3,2,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - suggestive of ulcerative colitis
+96,23204,26,0,1,0,1,7,1,0,0,0,1,2,1,0,0,1,0,0,0,0,0,0,0,UC,Endoscopy,"Non-specific inflammation, acute",Chronic idiopathic IBD - indeterminate
+95,1209,34,1,1,0,1,7,1,0,0,1,0,1,1,1,2,1,3,1,0,0,0,0,1,Crohns,Endoscopy,"IBD indeterminate, active",Chronic idiopathic IBD - indeterminate
+92,11242,26,1,0,1,1,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Chronic idiopathic IBD - indeterminate
+91,13184,29,1,1,0,1,7,1,0,0,0,1,1,1,1,1,2,0,1,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - suggestive of ulcerative colitis
+91,2461,73,0,1,0,0,7,1,0,0,1,0,1,1,1,2,1,3,2,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, active",Chronic idiopathic IBD - indeterminate
+95,17143,31,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,"IBD indeterminate, quiscent",Normal
+92,7236,73,1,1,0,1,7,1,0,0,1,0,1,1,1,2,1,0,0,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - indeterminate
+95,19721,35,0,1,1,1,7,1,0,0,1,0,1,1,1,2,1,0,0,0,0,0,0,1,UC,Endoscopy,UC,Chronic idiopathic IBD - indeterminate
+91,6671,30,1,1,0,0,7,1,0,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - indeterminate
+90,12786,43,1,0,0,0,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,Normal - oedema,Inflammation - unclassified
+96,2881,50,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+95,12986,59,0,1,0,0,7,1,0,1,0,0,1,1,0,0,1,0,0,1,0,0,0,0,UC,Endoscopy,"IBD indeterminate, active",Inflammation - unclassified
+92,5828,26,1,1,0,0,7,1,0,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,UC,Endoscopy,UC,Inflammation - unclassified
+95,20426,21,1,1,1,1,7,1,0,0,1,0,2,2,0,0,1,2,1,0,0,0,0,0,UC,Resection,"IBD indeterminate, active",Chronic idiopathic IBD - indeterminate
+91,1957,60,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, quiescent",Normal
+92,11049,68,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,UC,Normal
+91,12943,61,1,1,1,1,7,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,UC,Endoscopy,UC,Inflammation - unclassified
+92,230,61,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,UC,Normal
+91,1653,52,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,UC,Endoscopy,"Non-specific inflammation,chronic",Inflammation - unclassified
+90,2695,42,1,0,0,0,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,"Non-specific inflammation, chronic",Normal
+92,11220,57,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+90,6344,48,1,1,1,2,7,1,0,0,0,1,2,2,1,1,2,2,2,0,0,0,0,0,UC,Endoscopy,IBD ?UC,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+91,7904,27,0,1,2,2,4,1,0,0,0,1,2,2,0,0,2,3,2,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, active",Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+92,8215,38,1,1,0,0,7,1,0,0,0,1,0,0,0,0,2,1,0,0,0,0,0,0,Crohns,Endoscopy,Crohns,Inflammation - unclassified
+91,7269,30,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+92,4685,77,1,1,1,3,2,1,0,0,0,1,1,1,1,1,2,3,2,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+90,6897,64,1,1,1,2,5,1,0,0,0,1,2,2,0,0,2,3,2,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, active",Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+90,13828,35,1,0,0,2,5,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,"Non-specific inflammation, acute",Chronic idiopathic IBD - suggestive of ulcerative colitis
+95,14943,34,0,1,0,0,7,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,Crohns,Endoscopy,Crohns,Inflammation - unclassified
+90,14201,39,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Crohns,Endoscopy,"Non-specific inflammation, acute",Normal
+95,18368,66,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+91,7871,30,1,0,0,0,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, quiescent",Normal
+95,9941,53,0,1,2,3,4,1,0,0,0,1,1,1,0,0,2,3,2,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+91,10555,33,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Crohns,Endoscopy,"IBD indeterminate, quiescent",Normal
+92,10045,72,1,1,0,0,7,1,0,0,1,0,1,1,1,3,1,0,0,0,0,0,0,0,UC,Endoscopy,UC,Inflammation - unclassified
+91,4624,29,0,1,0,1,7,1,0,0,0,1,2,2,1,2,2,1,2,0,0,0,0,1,UC,Endoscopy,"IBD indeterminate, active",Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+94,21331,24,1,1,0,0,7,1,0,0,1,0,1,1,0,0,1,0,0,0,0,0,0,0,Crohns,Endoscopy,"IBD indeterminate, active",Chronic idiopathic IBD - suggestive of Crohn's disease
+96,19771,37,0,0,0,0,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+96,495,75,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Crohns,Endoscopy,Normal,Normal
+91,13817,52,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+90,8052,43,1,0,0,2,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Crohns,Endoscopy,"IBD indeterminate, quiescent",Chronic idiopathic IBD - indeterminate
+91,7000,39,0,0,0,1,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,UC,Endoscopy,"Non-specific inflammation, chronic",Chronic idiopathic IBD - suggestive of Crohn's disease
+90,4914,63,1,0,0,0,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, quiescent",Normal
+90,2074,22,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Crohns,Endoscopy,Normal,Normal
+91,12084,43,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+95,21693,35,1,1,1,3,4,1,0,0,0,1,2,1,0,0,2,3,3,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+90,3228,43,1,1,0,1,7,1,0,0,0,1,2,2,1,1,2,1,1,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, active",Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+90,2736,61,0,1,1,2,7,1,0,0,0,1,1,1,0,0,1,0,1,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - suggestive of ulcerative colitis
+90,10637,30,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Crohns,Endoscopy,"Non-specific inflammation, chronic",Normal
+96,7490,64,1,1,0,1,7,1,0,0,0,1,2,2,2,2,2,1,2,0,0,0,0,0,UC,Endoscopy,?IBD ?Infective,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+92,346,54,0,1,0,3,3,1,0,0,0,1,1,1,0,0,2,3,1,0,0,0,0,0,UC,Resection,IBD ?Crohns,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+94,14157,56,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+92,624,31,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+90,2977,42,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Crohns,Endoscopy,Normal,Normal
+91,6394,45,0,1,0,1,7,1,0,0,0,1,2,2,1,2,2,3,1,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+91,13095,66,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+96,4627,52,1,1,2,2,7,1,0,0,1,0,2,1,1,3,1,0,1,0,0,0,0,0,UC,Endoscopy,IBD ?UC,Chronic idiopathic IBD - suggestive of ulcerative colitis
+96,373,34,1,1,0,1,7,1,0,0,1,0,3,2,0,0,1,1,1,0,0,0,0,0,UC,Endoscopy,IBD ?UC,Chronic idiopathic IBD - suggestive of Crohn's disease
+92,9067,72,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+91,5878,60,0,1,1,1,7,1,0,0,1,0,2,2,1,2,1,3,3,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - indeterminate
+90,6006,51,0,1,0,0,7,1,1,0,0,0,1,1,0,0,1,2,0,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, active",Infective type colitis
+91,557,40,0,1,1,1,7,1,0,0,0,1,1,1,0,0,2,1,2,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+92,3586,46,1,0,1,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Resection,UC,Normal
+91,7539,34,1,1,0,1,7,1,0,0,1,0,1,1,0,0,1,0,0,0,0,0,0,0,Crohns,Endoscopy,Crohns,Inflammation - unclassified
+95,3617,51,0,1,0,1,7,1,0,0,0,1,2,3,1,3,2,3,1,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, active",Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+91,5220,37,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Crohns,Endoscopy,"IBD indeterminate, quiescent",Normal
+91,7252,70,1,1,0,0,7,1,0,0,0,1,3,3,2,2,2,0,3,0,0,0,0,1,UC,Resection,IBD ?UC,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+92,3673,68,0,1,1,3,4,1,0,0,0,1,2,2,2,3,2,1,3,0,0,0,0,0,UC,Resection,IBD ?UC,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+90,11160,23,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+91,12452,31,0,1,2,2,5,1,0,0,0,1,3,1,1,2,2,3,3,0,0,0,0,0,UC,Resection,UC,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+91,8691,49,1,1,0,2,6,1,0,0,1,0,3,1,1,1,1,0,0,0,0,0,0,0,UC,Resection,"IBD indeterminate, active",Chronic idiopathic IBD - indeterminate
+91,10657,18,1,0,0,0,7,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,Crohns,Resection,Crohns,Chronic idiopathic IBD - highly suggestive of Crohn's disease
+91,13957,62,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+94,11028,52,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+91,1038,60,0,1,0,1,7,1,0,0,0,1,1,1,0,0,1,3,1,0,0,0,0,0,UC,Endoscopy,IBD ?UC,Chronic idiopathic IBD - suggestive of ulcerative colitis
+92,8518,45,1,1,1,2,5,1,0,0,0,1,1,1,0,0,2,3,2,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+95,15736,26,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, active",Normal
+92,454,47,0,0,1,2,7,1,0,0,0,1,0,0,0,0,0,0,2,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+90,6329,62,1,0,0,0,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,IBD ?UC,Inflammation - unclassified
+92,9473,66,0,0,1,2,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - indeterminate
+90,7682,35,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, quiescent",Normal
+92,9548,74,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+92,10640,25,1,1,0,0,7,1,0,0,0,1,2,1,1,2,2,0,2,0,0,0,0,0,Crohns,Resection,"IBD indeterminate, active",Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+92,5517,28,1,1,1,1,7,1,0,0,0,1,1,1,0,0,2,2,1,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+90,4485,47,0,0,1,2,7,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - indeterminate
+95,20741,46,0,0,0,0,7,1,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Inflammation - unclassified
+96,1907,62,1,1,1,1,7,1,0,0,0,1,1,1,0,0,1,0,1,0,0,0,0,0,UC,Endoscopy,IBD ?UC,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+92,8267,45,1,1,0,1,7,1,0,0,1,0,0,0,0,0,1,0,1,0,0,1,0,0,Crohns,Endoscopy,Crohns,Chronic idiopathic IBD - highly suggestive of Crohn's disease
+89,4009,37,1,0,0,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, active",Chronic idiopathic IBD - suggestive of ulcerative colitis
+92,7225,51,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+92,1907,67,1,0,0,1,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,UC,Endoscopy,UC,Chronic idiopathic IBD - indeterminate
+91,8108,80,1,0,1,1,7,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,Crohns,Endoscopy,Crohns,Chronic idiopathic IBD - highly suggestive of Crohn's disease
+90,11734,73,0,1,0,0,7,1,0,0,1,0,1,1,0,0,1,0,0,0,0,0,1,0,Crohns,Endoscopy,Crohns,Chronic idiopathic IBD - highly suggestive of Crohn's disease
+90,3179,53,0,0,1,1,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - suggestive of ulcerative colitis
+92,631,30,0,1,1,2,5,1,0,0,0,1,2,2,1,1,2,3,2,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, active",Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+92,330,32,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+90,1033,35,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+90,323,45,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Crohns,Endoscopy,Normal,Normal
+91,12008,71,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+91,5329,53,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+92,11562,41,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+90,41,45,0,0,1,3,5,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, active",Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+92,4533,44,1,1,0,0,7,1,1,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,Crohns,Endoscopy,"IBD indeterminate, quiescent",Infective type colitis
+91,10211,18,0,0,1,2,5,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,UC,Resection,"IBD indeterminate, quiescent",Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+94,21523,51,1,1,0,2,7,1,0,0,1,0,2,2,0,0,1,0,3,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - indeterminate
+92,784,49,0,0,1,1,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Crohns,Endoscopy,"IBD indeterminate, quiescent",Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+95,10700,22,1,1,0,0,7,1,0,0,1,0,1,2,1,2,1,0,0,0,0,0,0,0,Crohns,Endoscopy,Crohns,Chronic idiopathic IBD - indeterminate
+91,6015,23,1,0,0,1,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Crohns,Endoscopy,"IBD indeterminate, active",Chronic idiopathic IBD - suggestive of ulcerative colitis
+95,7719,34,1,1,2,2,5,1,0,0,0,1,2,1,0,0,2,2,3,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+96,21809,64,0,1,1,2,6,1,0,0,0,1,3,2,1,1,2,3,2,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, active",Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+91,12304,38,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+90,7008,25,1,0,0,1,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Crohns,Endoscopy,"Non-specific inflammation, chronic",Chronic idiopathic IBD - indeterminate
+90,3268,70,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Crohns,Endoscopy,"IBD indeterminate, quiescent",Normal
+91,3950,60,0,0,1,1,7,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - suggestive of ulcerative colitis
+92,8602,54,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+90,13928,25,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Crohns,Endoscopy,Normal - oedema,Normal
+89,10747,44,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, active",Normal
+91,14045,28,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Crohns,Resection,Normal,Normal
+92,6941,36,1,0,0,1,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - indeterminate
+95,928,34,0,1,1,2,7,1,0,0,1,0,1,1,0,0,1,0,0,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - suggestive of ulcerative colitis
+91,4169,52,1,1,0,0,7,1,0,0,0,1,1,1,0,0,1,3,1,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, active",Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+92,7376,50,0,1,2,1,7,1,0,1,0,0,1,1,0,0,1,2,1,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - suggestive of ulcerative colitis
+92,6675,53,0,1,0,0,7,1,0,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,UC,Endoscopy,IBD ?UC,Inflammation - unclassified
+90,9162,59,0,1,0,0,7,1,0,0,1,0,1,1,0,0,1,0,0,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - indeterminate
+90,4636,43,1,1,0,0,7,1,0,0,0,1,2,1,0,0,2,2,1,0,0,0,0,0,UC,Endoscopy,IBD ?UC,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+90,9556,67,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+95,22582,19,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+90,3371,23,0,1,0,1,7,1,0,0,0,1,2,1,0,0,2,0,0,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, quiescent",Chronic idiopathic IBD - suggestive of ulcerative colitis
+92,7258,82,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+91,2786,25,1,1,2,2,4,1,0,0,0,1,2,2,0,0,2,2,2,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, active",Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+90,10691,23,0,0,1,1,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, quiescent",Chronic idiopathic IBD - indeterminate
+91,14325,53,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+90,2689,33,1,1,1,1,7,1,0,0,0,1,2,2,0,0,2,2,2,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, quiescent",Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+90,13223,31,1,1,0,0,7,1,0,0,0,1,2,2,1,1,2,2,1,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - suggestive of ulcerative colitis
+96,3076,23,1,1,1,1,7,1,0,0,1,0,1,2,1,2,1,0,0,0,0,0,0,0,Crohns,Endoscopy,IBD ?Crohns,Chronic idiopathic IBD - indeterminate
+92,2956,50,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,"Non-specific inflammation, chronic",Normal
+91,13718,36,1,0,1,2,5,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - indeterminate
+96,19765,66,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+95,17877,37,1,1,2,2,7,1,0,0,0,1,2,1,1,2,1,0,1,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, active",Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+90,5494,24,1,1,1,3,4,1,0,1,0,0,1,1,0,0,1,3,2,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, active",Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+91,3743,27,0,0,1,1,7,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,UC,Endoscopy,"Non-specific inflammation, acute",Chronic idiopathic IBD - suggestive of ulcerative colitis
+95,12396,41,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,"Non-specific inflammation, chronic",Normal
+91,6551,27,1,0,0,0,7,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,UC,Endoscopy,IBD ?UC,Chronic idiopathic IBD - indeterminate
+92,7586,54,0,1,0,0,7,1,1,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,UC,Resection,Acute self-limiting colitis,Inflammation - unclassified
+96,20829,49,1,0,0,1,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - indeterminate
+96,4869,30,0,1,1,2,7,1,0,0,0,1,3,2,1,2,2,1,2,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+92,6327,21,0,1,1,1,7,1,0,0,0,1,2,1,0,0,2,0,1,0,0,0,0,0,UC,Endoscopy,IBD ?UC,Chronic idiopathic IBD - indeterminate
+91,13520,65,1,1,1,1,7,1,0,0,0,1,2,2,0,0,2,2,1,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - suggestive of ulcerative colitis
+96,19997,78,0,1,0,1,7,1,0,0,0,1,2,1,0,0,2,3,2,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - indeterminate
+91,2204,46,0,0,1,1,7,1,0,0,0,1,0,0,0,0,0,0,2,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - indeterminate
+91,7535,32,1,1,0,1,7,1,0,0,0,1,1,1,0,0,1,1,1,1,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - indeterminate
+91,7509,53,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,UC,Normal
+96,15530,32,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,"IBD indeterminate, quiescent",Normal
+91,7976,29,1,1,0,0,7,1,0,0,1,0,1,1,0,0,1,0,0,0,0,1,0,0,UC,Endoscopy,"IBD indeterminate, active",Chronic idiopathic IBD - highly suggestive of Crohn's disease
+90,7525,22,0,1,1,1,7,1,0,0,1,0,1,1,1,1,1,2,1,0,0,0,0,0,Crohns,Endoscopy,"IBD indeterminate, active",Chronic idiopathic IBD - indeterminate
+91,13917,24,1,1,0,0,7,1,0,1,1,0,2,1,0,0,1,0,0,0,0,0,0,0,Crohns,Resection,"IBD indeterminate, active",Chronic idiopathic IBD - indeterminate
+92,2287,28,1,0,0,1,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - indeterminate
+90,14772,44,0,0,1,1,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,IBD ?UC,Chronic idiopathic IBD - indeterminate
+92,8562,72,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+90,8989,52,1,0,0,2,5,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,IBD ?UC,Chronic idiopathic IBD - indeterminate
+90,5849,65,1,0,1,2,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - indeterminate
+90,14436,57,0,0,1,1,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, quiescent",Normal
+90,8995,30,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,Normal,Normal
+92,11709,21,1,1,0,0,7,1,0,0,1,0,0,0,0,0,1,3,0,0,0,0,0,0,Crohns,Endoscopy,IBD ?Crohns,Inflammation - unclassified
+92,4045,78,0,1,1,1,7,1,0,0,0,1,2,2,3,3,2,2,2,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+90,10162,41,0,1,0,1,7,1,0,0,0,1,2,1,0,0,2,1,2,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, active",Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+90,8924,69,0,0,0,1,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - indeterminate
+91,9387,45,0,0,0,1,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, quiescent",Inflammation - unclassified
+92,2514,73,1,1,1,3,5,1,0,0,0,1,2,2,1,1,2,3,3,0,0,0,0,0,Crohns,Endoscopy,Crohns,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+91,12680,55,1,1,0,1,7,1,0,0,0,1,1,1,0,0,2,3,1,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - suggestive of ulcerative colitis
+92,7815,37,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+95,18820,29,1,1,1,1,7,1,0,0,1,0,1,1,0,0,1,1,2,0,0,0,0,0,UC,Resection,"IBD indeterminate, active",Chronic idiopathic IBD - indeterminate
+90,8804,35,1,0,0,0,7,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Crohns,Endoscopy,Crohns,Inflammation - unclassified
+94,16673,34,0,1,0,0,7,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,Crohns,Endoscopy,Crohns,Inflammation - unclassified
+91,1309,29,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Crohns,Endoscopy,Normal,Normal
+90,5727,28,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Crohns,Endoscopy,"Non-specific inflammation, chronic",Normal
+91,4189,70,1,0,1,1,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - indeterminate
+95,804,64,0,1,0,0,7,1,0,0,1,0,1,1,0,0,1,0,0,0,0,0,0,0,UC,Endoscopy,UC,Inflammation - unclassified
+91,10062,47,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, quiescent",Normal
+96,1389,23,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+91,12037,72,0,0,0,1,7,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,UC,Endoscopy,UC,Inflammation - unclassified
+91,8461,55,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, quiescent",Normal
+95,16551,35,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+91,1547,26,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Crohns,Endoscopy,"Non-specific inflammation, chronic",Normal
+93,2316,24,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,Normal,Normal
+96,15228,52,1,1,1,2,5,1,0,0,0,1,1,1,0,0,1,0,1,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+92,7205,27,0,0,0,1,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Chronic idiopathic IBD - indeterminate
+92,4164,31,1,1,1,2,6,1,0,0,0,1,1,1,0,0,2,3,2,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, active",Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+91,13245,40,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+96,6100,53,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+90,14416,74,1,1,1,1,7,1,0,0,0,1,1,1,0,0,2,3,1,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - suggestive of ulcerative colitis
+91,12893,51,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+92,2954,58,1,0,1,1,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - indeterminate
+92,5883,29,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Crohns,Resection,"Non-specific inflammation, chronic",Normal
+91,6762,43,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, active",Normal
+90,7775,61,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,Normal,Normal
+90,9738,52,0,0,1,1,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - indeterminate
+92,11037,47,1,0,0,0,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Crohns,Endoscopy,Crohns,Inflammation - unclassified
+90,9256,28,0,0,0,0,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,UC,Normal
+90,11217,26,0,1,2,3,5,1,0,0,0,1,2,2,0,0,2,3,3,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+91,6937,29,0,1,2,1,7,1,0,0,0,1,2,2,0,0,2,2,2,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, active",Chronic idiopathic IBD - suggestive of ulcerative colitis
+91,10814,31,0,1,0,1,7,1,0,1,1,0,1,1,0,0,1,0,1,0,0,0,0,0,UC,Resection,UC,Chronic idiopathic IBD - suggestive of ulcerative colitis
+96,16806,27,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Crohns,Endoscopy,Crohns,Normal
+90,13572,59,0,1,0,2,7,1,0,0,0,1,1,1,0,0,2,3,1,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, active",Chronic idiopathic IBD - suggestive of ulcerative colitis
+90,9163,69,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+96,4392,71,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+91,9847,48,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,UC,Normal
+91,4073,65,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,UC,Normal
+96,20005,55,1,1,1,2,7,1,0,0,0,1,2,2,0,0,2,3,2,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+91,13599,27,0,1,2,3,4,1,0,0,0,1,2,2,1,2,2,3,2,0,0,0,0,1,UC,Endoscopy,UC,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+91,8378,70,0,1,1,2,5,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - indeterminate
+90,5822,51,0,1,0,1,7,1,0,0,0,1,1,1,0,0,2,1,1,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, active",Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+92,8839,84,1,1,0,1,7,1,0,0,0,1,2,1,1,2,2,2,1,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+92,946,44,0,1,0,1,7,1,0,0,1,0,1,1,0,0,1,0,0,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - indeterminate
+91,14025,34,0,1,0,1,7,1,0,0,0,1,1,1,0,0,1,2,1,0,0,0,0,0,UC,Endoscopy,UC,Inflammation - unclassified
+90,7936,23,0,0,0,1,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,IBD ?Crohns,Chronic idiopathic IBD - indeterminate
+95,17906,48,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+91,11661,25,0,0,0,0,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,IBD ?UC,Inflammation - unclassified
+95,13270,52,0,1,1,2,7,1,0,0,1,0,2,1,1,2,1,3,2,0,0,1,0,1,Crohns,Endoscopy,Crohns,Chronic idiopathic IBD - highly suggestive of Crohn's disease
+92,7159,36,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+91,12973,25,1,1,0,1,7,1,0,0,0,1,3,2,0,0,2,3,2,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+95,10703,32,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+93,358,32,0,1,0,1,7,1,0,0,1,0,1,1,0,0,1,0,0,0,0,1,0,0,Crohns,Endoscopy,Crohns,Chronic idiopathic IBD - suggestive of Crohn's disease
+92,7430,36,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, quiescent",Normal
+92,1595,82,1,1,1,1,7,1,0,0,1,0,1,1,0,0,1,0,0,0,0,0,0,0,UC,Endoscopy,IBD ?UC,Chronic idiopathic IBD - indeterminate
+96,5897,20,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+90,6490,28,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+96,4188,81,0,1,2,2,7,1,0,0,0,1,2,2,2,2,2,2,2,0,0,0,0,0,Crohns,Resection,IBD ?UC,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+92,4293,44,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal - spirochaetosis,Normal
+91,7919,71,1,0,0,0,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,"Non-specific inflammation, acute",Inflammation - unclassified
+95,20687,43,1,1,1,2,7,1,0,0,1,0,1,2,1,3,1,3,3,0,0,0,0,0,UC,Endoscopy,"Non-specific inflammation, acute",Chronic idiopathic IBD - indeterminate
+91,9378,33,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+96,7208,55,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,Normal,Normal
+91,11088,46,0,0,2,2,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - indeterminate
+91,10926,40,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Crohns,Endoscopy,Inadequate,Normal
+90,11091,36,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal - biopsy artefact,Normal
+95,14062,34,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,UC,Normal
+91,2757,45,1,1,1,3,4,1,0,1,0,0,0,0,0,0,1,1,2,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+91,354,31,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,Normal - oedema,Normal
+92,6945,47,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+92,6254,50,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, active",Normal
+92,7469,81,1,1,0,1,7,1,0,0,1,0,1,1,0,0,1,0,0,0,0,0,0,0,Crohns,Endoscopy,"IBD indeterminate, active",Chronic idiopathic IBD - indeterminate
+91,13148,49,1,0,2,1,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, quiescent",Chronic idiopathic IBD - suggestive of ulcerative colitis
+91,3791,24,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, active",Normal
+90,8872,46,0,1,1,3,4,1,0,0,0,1,1,1,0,0,1,3,1,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - indeterminate
+92,97,30,1,1,2,3,4,1,0,0,0,1,2,2,3,3,2,3,2,0,0,0,0,0,UC,Resection,Pouchitis,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+95,17849,43,1,1,0,1,7,1,0,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, active",Chronic idiopathic IBD - suggestive of ulcerative colitis
+92,8019,22,0,0,1,3,3,1,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,UC,Endoscopy,IBD ?UC,Chronic idiopathic IBD - suggestive of ulcerative colitis
+91,1451,28,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+96,2362,28,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+92,7156,58,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+91,4399,39,0,1,0,0,7,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,UC,Endoscopy,UC,Inflammation - unclassified
+91,1087,58,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, quiescent",Normal
+90,3269,54,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+91,6124,25,0,1,1,1,7,1,0,0,0,1,2,2,0,0,2,1,1,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - suggestive of ulcerative colitis
+91,7441,71,1,0,0,1,7,1,0,1,0,0,1,1,0,0,0,1,2,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, active",Chronic idiopathic IBD - indeterminate
+92,9951,49,1,1,1,2,7,1,0,0,0,1,1,1,1,2,1,0,1,0,0,0,0,0,UC,Resection,UC,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+90,8309,49,0,1,0,1,7,1,0,0,0,1,1,1,0,0,2,2,1,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, active",Chronic idiopathic IBD - suggestive of ulcerative colitis
+90,10521,46,1,1,0,0,7,1,0,0,1,0,2,1,0,0,1,0,1,0,0,0,0,0,Uc,Endoscopy,"IBD indeterminate, active",Chronic idiopathic IBD - suggestive of Crohn's disease
+92,4794,26,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal ,Endoscopy,Normal,Normal
+95,18669,44,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+92,7488,21,0,0,0,0,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,IBD ?UC,Normal
+92,8064,49,0,1,1,1,7,1,0,0,1,0,2,1,1,2,1,0,2,0,0,0,0,1,Normal,Endoscopy,"IBD indeterminate, active",Chronic idiopathic IBD - indeterminate
+90,3288,74,0,1,0,1,7,1,0,0,0,1,2,2,0,0,2,0,1,0,0,0,0,0,UC,Endoscopy,IBD ?UC,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+91,7823,30,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+92,5581,35,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,UC,Normal
+91,1922,22,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,"Non-specific inflammation, chronic",Normal
+95,14039,31,0,1,0,0,7,1,0,0,1,0,1,1,0,0,1,0,0,0,0,0,0,0,Crohns,Endoscopy,Crohns,Chronic idiopathic IBD - suggestive of Crohn's disease
+91,13976,65,0,1,1,3,4,1,0,0,0,1,1,1,3,3,1,3,3,0,0,0,0,0,UC,Resection,UC,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+90,12021,47,0,1,1,2,4,1,0,0,0,1,2,2,2,2,2,3,2,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, active",Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+92,3337,62,0,1,2,1,7,1,0,0,0,1,1,1,0,0,1,0,2,0,0,0,0,0,UC,Resection,UC,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+92,10949,65,0,1,2,2,5,1,0,0,0,1,3,1,1,1,2,3,2,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, active",Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+90,5344,42,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Crohns,Endoscopy,"IBD indeterminate, quiescent",Normal
+92,344,58,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,Normal,Normal
+92,7141,23,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+91,11489,58,0,1,1,2,7,1,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,1,UC,Endoscopy,UC,Chronic idiopathic IBD - suggestive of ulcerative colitis
+91,8630,26,1,1,0,0,7,1,0,0,1,0,1,1,2,2,1,2,2,0,0,0,0,0,Crohns,Endoscopy,Crohns,Chronic idiopathic IBD - indeterminate
+90,7103,37,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+94,21363,34,0,1,2,3,5,1,0,0,0,1,2,2,1,1,2,3,2,0,0,0,0,0,UC,Resection,UC,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+96,16010,50,1,1,1,2,7,1,0,0,0,1,2,3,0,0,2,3,1,0,0,0,0,0,UC,Endoscopy,IBD ?UC,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+91,9386,30,1,1,0,0,7,1,0,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, active",Inflammation - unclassified
+92,5557,54,0,1,2,1,7,1,0,0,1,0,1,1,0,0,1,3,0,0,0,0,0,0,UC,Resection,IBD ?UC,Chronic idiopathic IBD - indeterminate
+94,6085,34,0,1,0,0,7,1,0,0,0,1,1,1,1,1,2,1,2,0,0,0,0,0,Crohns,Endoscopy,"Non-specific inflammation, chronic",Inflammation - unclassified
+91,8529,48,0,0,1,1,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - indeterminate
+96,16862,70,0,1,1,3,4,1,0,0,0,1,0,0,0,0,2,3,1,0,0,0,0,0,Crohns,Resection,"Non-specific inflammation, acute",Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+90,13811,67,1,0,0,0,7,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,UC,Endoscopy,UC,Inflammation - unclassified
+92,3345,43,0,0,0,1,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Resection,"Non-specific inflammaton, chronic",Normal
+90,6713,17,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Crohns,Endoscopy,Normal,Normal
+92,15320,50,0,1,0,2,7,1,0,0,0,1,2,1,0,0,2,2,2,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+91,5277,31,0,0,0,2,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, active",Chronic idiopathic IBD - indeterminate
+96,796,22,0,1,0,0,7,1,0,0,1,0,1,1,1,2,1,0,1,0,0,0,0,0,Crohns,Endoscopy,"IBD indeterminate, active",Chronic idiopathic IBD - indeterminate
+95,10704,69,0,1,0,0,7,1,0,0,1,0,1,1,0,0,1,0,0,0,0,0,0,0,UC,Endoscopy,"Non-specific inflammation, chronic",Chronic idiopathic IBD - indeterminate
+90,12654,58,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,UC,Normal
+96,15531,51,0,1,0,2,6,1,0,0,1,0,2,1,1,2,1,1,1,0,0,1,0,0,UC,Endoscopy,IBD ?UC,Chronic idiopathic IBD - highly suggestive of Crohn's disease
+96,15058,38,1,1,1,2,7,1,0,0,0,1,2,2,1,2,2,3,2,0,0,0,0,0,UC,Endoscopy,IBD ?UC,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+92,8948,29,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+90,616,21,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+91,12307,32,1,1,0,1,7,1,0,0,1,0,2,2,0,0,1,1,1,0,0,0,0,0,UC,Endoscopy,UC,Inflammation - unclassified
+95,17429,52,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,UC,Normal
+91,3892,25,0,0,1,1,4,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - suggestive of ulcerative colitis
+95,2341,34,0,1,2,2,7,1,0,0,0,1,2,1,0,0,2,3,3,0,0,0,0,1,UC,Endoscopy,"IBD indeterminate, active",Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+91,11996,40,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+91,13422,18,0,1,0,0,7,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,Crohns,Endoscopy,Crohns,Inflammation - unclassified
+90,13848,32,1,0,1,1,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - suggestive of ulcerative colitis
+96,367,44,0,0,1,2,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,IBD ?UC,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+92,4535,59,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,"Non-specific inflammation, chronic",Normal
+91,6569,44,1,1,0,0,7,1,0,0,0,1,2,2,1,3,2,2,2,0,0,0,0,0,Crohns,Endoscopy,Crohns,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+91,789,70,1,1,1,2,5,1,0,0,0,1,3,2,1,2,2,3,2,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+96,5375,54,1,1,0,1,7,1,0,0,1,0,1,1,0,0,1,0,0,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, quiescent",Chronic idiopathic IBD - indeterminate
+92,1388,52,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, quiescent",Normal
+96,19775,53,0,1,2,2,6,1,0,0,0,1,3,2,1,2,2,3,2,0,0,0,0,0,UC,Endoscopy,IBD ?UC,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+92,5769,71,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,UC,Endoscopy,"IBD indeterminate, active",Other colitis Lymphocytic colitis
+90,11246,38,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,Normal - oedema,Normal
+91,94,21,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,Normal,Normal
+90,44,54,0,1,0,1,7,1,0,0,0,1,2,1,2,2,2,3,2,0,0,0,0,1,UC,Endoscopy,UC,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+91,9279,30,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Crohns,Resection,Normal,Normal
+91,6190,76,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+95,23000,42,0,1,0,0,7,1,0,0,0,1,1,1,1,2,1,0,0,0,0,0,0,0,UC,Endoscopy,"Non-specific inflammation, acute",Chronic idiopathic IBD - indeterminate
+92,4966,22,0,0,0,0,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,UC,Normal
+94,20059,27,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+90,3953,28,1,1,1,3,4,1,0,0,1,0,2,2,0,0,1,3,1,0,0,0,0,0,UC,Endoscopy,IBD ?UC,Chronic idiopathic IBD - indeterminate
+92,3810,66,0,1,2,2,4,1,0,0,0,1,1,1,1,1,2,2,2,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+96,858,30,0,1,1,2,7,1,0,0,0,1,2,2,1,2,2,3,3,0,0,0,0,1,UC,Endoscopy,"IBD indeterminate, active",Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+91,8410,46,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Crohns,Endoscopy,"Non-specific inflammation, chronic",Normal
+93,1391,62,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,UC,Normal
+93,3715,77,0,1,0,1,7,1,0,0,1,0,1,1,1,2,1,0,1,0,0,0,0,0,UC,Resection,UC,Chronic idiopathic IBD - indeterminate
+91,14416,27,1,1,0,0,7,1,0,1,0,0,2,1,0,0,1,0,0,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, active",Inflammation - unclassified
+92,5183,62,0,1,2,2,7,1,0,0,0,1,2,2,1,3,1,2,2,0,0,0,0,0,UC,Resection,UC,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+94,21970,58,0,0,2,2,6,1,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+90,2963,57,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,IBD ?UC,Normal
+91,1341,40,0,0,1,1,7,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, active",Chronic idiopathic IBD - suggestive of ulcerative colitis
+92,10345,31,0,1,0,1,7,1,0,0,1,0,1,1,1,1,1,0,0,0,0,1,0,0,Crohns,Endoscopy,Crohns,Chronic idiopathic IBD - highly suggestive of Crohn's disease
+95,10694,22,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+91,10522,25,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+90,6304,42,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Crohns,Endoscopy,"IBD indeterminate, quiescent",Other colitis Melanosis coli
+95,18050,52,0,1,0,2,7,1,0,0,1,0,2,1,0,0,1,3,1,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, active",Chronic idiopathic IBD - indeterminate
+96,9223,30,0,1,1,1,7,1,0,0,1,0,1,1,0,0,1,0,0,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, quiescent",Chronic idiopathic IBD - indeterminate
+96,16808,73,0,0,0,2,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - indeterminate
+93,4803,23,1,1,0,1,7,1,0,0,1,0,1,1,1,2,1,0,0,0,0,0,0,0,Crohns,Endoscopy,IBD ?Crohns,Chronic idiopathic IBD - indeterminate
+91,8222,80,1,1,0,1,7,1,0,0,1,0,1,2,0,0,1,0,0,0,0,1,0,0,Crohns,Endoscopy,Crohns,Infective type colitis
+92,9902,26,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Crohns,Endoscopy,Crohns,Normal
+92,8969,39,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+91,6557,39,0,0,1,1,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, quiescent",Chronic idiopathic IBD - indeterminate
+90,6814,19,0,1,0,1,7,1,0,0,1,0,1,2,1,3,1,0,1,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, active",Chronic idiopathic IBD - suggestive of Crohn's disease
+90,8256,33,0,1,0,0,7,1,0,0,0,1,1,1,0,0,2,2,1,0,0,0,0,0,UC,Endoscopy,IBD ?UC,Chronic idiopathic IBD - suggestive of ulcerative colitis
+90,7809,45,0,0,1,1,5,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, active",Chronic idiopathic IBD - suggestive of ulcerative colitis
+96,7725,30,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+96,14608,67,1,0,0,1,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,UC,Inflammation - unclassified
+92,9323,32,1,1,2,2,5,1,0,0,0,1,3,2,1,1,2,3,2,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+90,264,64,1,0,0,0,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Crohns,Endoscopy,"IBD indeterminate, active",Inflammation - unclassified
+90,13045,26,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Crohns,Endoscopy,Normal,Normal
+92,120,37,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+92,7489,51,0,1,0,1,7,1,0,0,0,1,2,2,0,0,2,3,2,0,0,0,0,0,Crohns,Endoscopy,IBD ?Crohns,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+92,151,61,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+91,11677,61,0,0,0,0,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,UC,Inflammation - unclassified
+95,1204,74,0,1,0,1,7,1,0,0,0,1,2,1,0,0,2,0,2,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - suggestive of ulcerative colitis
+92,5687,77,0,0,0,1,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,UC,Inflammation - unclassified
+91,9876,50,0,0,0,0,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, active",Inflammation - unclassified
+91,5650,57,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+91,2242,18,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Crohns,Endoscopy,"IBD indeterminate, active",Normal
+91,6936,60,1,1,2,1,7,1,0,0,0,1,2,2,1,1,2,1,1,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - suggestive of ulcerative colitis
+90,13307,21,1,1,1,1,7,1,0,0,0,1,0,0,0,0,1,2,1,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - indeterminate
+90,5586,22,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Crohns,Endoscopy,"Non-specific inflammation, chronic",Normal
+90,8655,39,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,Normal,Normal
+90,8659,20,0,1,1,1,7,1,0,0,0,1,1,1,0,0,2,3,0,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, active",Chronic idiopathic IBD - suggestive of ulcerative colitis
+96,16978,28,0,0,0,0,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Inflammation - unclassified
+92,3584,82,1,0,1,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,IBD ?UC,Other colitis Melanosis coli
+93,1129,56,0,1,0,2,2,1,0,0,0,1,1,1,0,0,2,3,3,0,0,0,0,0,UC,Resection,UC,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+90,14200,23,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Crohns,Endoscopy,"Non-specific inflammation, acute",Normal
+90,14774,62,0,1,1,2,5,1,0,0,0,1,2,2,2,1,2,3,2,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+92,7204,32,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Crohns ,Endoscopy,Normal,Normal
+92,1389,48,0,0,0,1,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - indeterminate
+92,7257,44,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,UC,Endoscopy,"IBD indeterminate, active",Chronic idiopathic IBD - suggestive of Crohn's disease
+95,16142,47,1,1,0,2,6,1,0,0,0,1,3,2,1,1,2,3,2,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, active",Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+91,13781,28,1,0,0,0,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Resection,"Non-specific inflammation, chronic",Inflammation - unclassified
+91,13405,62,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Crohns,Endoscopy,Crohns,Normal
+91,7013,52,0,1,0,0,7,1,0,0,1,0,2,2,0,0,1,0,0,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - indeterminate
+90,4465,36,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+90,10518,29,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, quiescent",Normal
+96,3126,27,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+92,2031,82,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, quiescent",Normal
+95,9758,78,0,1,1,1,7,1,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, active",Chronic idiopathic IBD - indeterminate
+92,8564,34,0,1,1,2,4,1,0,0,0,1,1,1,0,0,2,3,1,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+91,8147,62,0,1,2,3,4,1,0,0,0,1,1,1,2,2,1,0,1,0,0,0,0,0,Crohns,Resection,Crohns,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+91,14093,43,1,1,1,2,4,1,0,0,1,0,2,2,0,0,1,3,2,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, quiescent",Chronic idiopathic IBD - suggestive of Crohn's disease
+92,719,56,0,1,0,1,7,1,0,1,1,0,1,1,0,0,1,0,1,0,0,0,0,0,UC,Resection,"IBD indeterminate, quiescent",Chronic idiopathic IBD - indeterminate
+92,1483,34,1,1,0,0,7,1,0,0,1,0,1,1,1,1,1,0,0,0,0,0,0,0,Crohns,Resection,"IBD indeterminate, quiescent",Inflammation - unclassified
+92,7709,62,0,1,0,1,7,1,0,0,1,0,1,1,0,0,1,1,1,0,0,1,0,0,Crohns,Endoscopy,IBD ?Crohns,Chronic idiopathic IBD - highly suggestive of Crohn's disease
+91,4519,28,0,0,0,0,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Crohns,Endoscopy,IBD ?Crohns,Inflammation - unclassified
+91,13254,60,1,0,0,0,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+91,14104,43,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+95,13094,34,1,1,0,3,4,1,0,0,0,1,2,1,1,1,1,1,3,0,0,0,0,0,Crohns,Endoscopy,IBD ?Crohns,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+91,11051,42,1,1,1,2,4,1,0,0,0,1,2,2,1,2,1,2,2,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+90,391,48,1,1,0,1,7,1,0,0,0,1,3,2,2,2,2,3,2,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+92,6253,24,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Crohns,Endoscopy,Normal,Normal
+90,13870,70,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+95,4184,39,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+90,5247,52,0,1,0,1,7,1,0,0,0,1,2,1,1,1,2,0,1,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+91,2505,49,0,1,1,3,4,1,0,0,1,0,1,1,1,2,1,1,1,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - indeterminate
+95,17406,63,1,1,0,0,7,1,0,0,1,0,1,2,0,0,1,0,0,0,0,0,0,0,Crohns,Endoscopy,Crohns,Inflammation - unclassified
+91,5911,61,0,1,2,1,7,1,0,0,1,0,1,1,0,0,1,0,0,0,0,0,0,0,UC,Resection,"Non-specific inflammation, chronic",Chronic idiopathic IBD - indeterminate
+90,7454,21,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+92,8115,50,1,1,0,0,7,1,0,0,1,0,1,1,0,0,1,0,1,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - indeterminate
+91,1344,21,0,0,1,1,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,UC,Endoscopy,"IBD indeterminate, active",Chronic idiopathic IBD - suggestive of ulcerative colitis
+91,2319,44,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Crohns,Endoscopy,"IBD indeterminate, quiescent",Normal
+91,6121,55,0,1,1,1,7,1,0,0,0,1,2,2,1,3,2,1,1,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - suggestive of ulcerative colitis
+92,11046,53,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+96,15533,71,0,1,0,2,5,1,0,0,0,1,2,1,2,3,2,2,2,0,0,0,0,0,UC,Endoscopy,IBD ?UC,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+92,658,60,0,1,1,0,7,1,0,0,0,1,2,2,0,0,2,3,2,0,0,0,0,0,UC,Endoscopy,IBD ?UC,Chronic idiopathic IBD - suggestive of ulcerative colitis
+92,3191,67,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,UC,Normal
+96,5872,44,1,0,0,1,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, quiescent",Inflammation - unclassified
+91,12942,33,1,0,0,1,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,UC,Inflammation - unclassified
+96,20302,45,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,UC,Normal
+96,14004,28,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+95,10178,24,1,1,1,2,7,1,0,0,1,0,1,1,0,0,1,0,0,0,0,0,0,0,Crohns,Endoscopy,"IBD indeterminate, active",Chronic idiopathic IBD - indeterminate
+91,2964,46,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,Normal,Normal
+90,4947,24,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, quiescent",Normal
+91,14089,49,1,0,1,1,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - suggestive of ulcerative colitis
+95,20740,53,1,0,0,0,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, quiescent",Inflammation - unclassified
+95,899,33,1,1,1,1,7,1,0,0,0,1,1,1,0,0,1,0,0,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+95,23491,52,1,1,0,0,7,1,0,0,0,1,2,1,0,0,1,0,0,0,0,0,0,0,Crohns,Endoscopy,"Non-specific inflammation, acute",Chronic idiopathic IBD - indeterminate
+93,12053,39,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,UC,Normal
+91,823,43,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+92,11573,69,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+92,5515,35,0,1,2,3,4,1,0,0,0,1,1,1,0,0,2,2,2,0,0,0,0,0,UC,Endoscopy,UC,Inflammation - unclassified
+95,14495,49,1,1,1,2,7,1,0,0,0,1,1,1,1,1,2,1,2,0,0,0,0,0,Crohns,Endoscopy,Crohns,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+90,1253,25,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+90,13732,28,0,1,0,0,7,1,0,0,0,1,1,1,0,0,1,2,1,0,0,0,0,0,UC,Endoscopy,Acute self-limiting colitis,Chronic idiopathic IBD - suggestive of ulcerative colitis
+91,12122,61,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+96,16809,25,0,1,0,0,7,1,0,0,1,0,1,1,0,0,1,0,0,0,0,0,0,0,UC,Endoscopy,UC,Inflammation - unclassified
+95,19720,47,1,0,0,1,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,"Non-specific inflammation, acute",Normal
+95,8882,29,1,1,0,1,7,1,0,0,1,0,1,1,1,1,1,1,0,0,0,1,1,0,Crohns,Endoscopy,Crohns,Chronic idiopathic IBD - highly suggestive of Crohn's disease
+92,921,27,1,0,1,2,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Crohns,Endoscopy,Crohns,Chronic idiopathic IBD - indeterminate
+92,5829,30,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,"Non-specific inflammation, chronic",Normal
+96,14605,27,1,1,2,2,6,1,0,0,1,0,1,2,0,0,1,2,1,0,0,1,0,0,UC,Resection,"IBD indeterminate, active",Chronic idiopathic IBD - suggestive of Crohn's disease
+90,6043,54,0,1,1,1,7,1,0,0,1,0,1,2,1,2,1,0,1,0,0,0,0,0,Crohns,Endoscopy,"IBD indeterminate, active",Chronic idiopathic IBD - indeterminate
+91,1695,55,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Crohns,Endoscopy,"IBD indeterminate, quiescent",Normal
+90,10858,45,1,0,0,0,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, quiescent",Normal
+96,3077,35,0,1,1,2,7,1,0,0,1,0,1,1,0,0,1,1,1,0,0,0,0,0,UC,Endoscopy,IBD ?UC,Chronic idiopathic IBD - indeterminate
+92,2674,45,1,1,0,1,7,1,0,0,1,0,1,1,0,0,1,0,0,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - indeterminate
+91,10556,31,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,Normal,Normal
+91,11906,20,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal ,Endoscopy,Normal,Normal
+92,1900,68,0,1,0,3,3,1,0,0,0,1,2,2,2,2,2,3,3,0,0,0,0,0,UC,Resection,IBD ?UC,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+96,15317,75,0,1,0,1,7,1,0,0,0,1,2,2,1,2,2,3,2,0,0,0,0,0,UC,Endoscopy,"Non-specific inflammation, acute",Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+90,14634,16,1,1,0,0,7,1,0,0,0,1,2,2,2,2,2,2,2,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+91,2223,72,1,1,0,0,7,1,0,0,0,1,2,2,1,1,2,2,2,0,0,0,0,0,Crohns,Endoscopy,IBD ?Crohns,Chronic idiopathic IBD - suggestive of ulcerative colitis
+96,3881,43,0,1,0,0,7,1,0,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Inflammation - unclassified
+91,3307,22,0,1,2,2,5,1,0,0,0,1,2,2,1,2,2,3,2,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+91,3117,69,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Crohns,Endoscopy,Normal,Normal
+92,5582,71,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,UC,Normal
+95,19562,53,1,1,0,1,7,1,0,0,1,0,1,1,1,1,1,0,0,0,0,0,0,0,Crohns,Endoscopy,"IBD indeterminate, active",Chronic idiopathic IBD - suggestive of Crohn's disease
+92,13145,62,0,1,2,2,7,1,0,0,0,1,1,1,1,3,2,2,2,0,0,0,0,0,UC,Resection,UC,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+90,14311,23,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+96,3122,43,0,0,1,1,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, active",Chronic idiopathic IBD - indeterminate
+90,587,58,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+95,19634,53,1,1,1,2,4,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,UC,Resection,"Non-specific inflammation, chronic",Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+92,8672,18,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+92,7343,28,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+92,6977,48,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,UC,Normal
+95,15381,59,0,1,0,0,7,1,0,0,1,0,1,1,0,0,1,0,0,0,0,0,0,0,UC,Endoscopy,UC,Inflammation - unclassified
+95,2139,74,0,1,0,1,7,1,0,0,1,0,1,1,0,0,1,1,1,0,0,0,0,1,UC,Endoscopy,UC,Chronic idiopathic IBD - indeterminate
+96,2880,53,0,0,2,2,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,IBD ?UC,Chronic idiopathic IBD - suggestive of ulcerative colitis
+91,12453,34,1,0,1,1,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,UC,Inflammation - unclassified
+90,6491,18,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+90,7229,35,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Crohns,Endoscopy,"IBD indeterminate, quiescent",Normal
+95,18335,55,0,1,0,0,7,1,0,0,1,0,1,1,1,2,1,0,0,0,0,0,0,0,Crohns,Endoscopy,Crohns,Chronic idiopathic IBD - indeterminate
+91,11353,59,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Crohns,Endoscopy,Normal,Normal
+92,403,68,1,1,0,0,7,1,0,0,1,0,1,1,0,0,1,1,1,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, active",Inflammation - unclassified
+91,13208,38,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+90,10021,23,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+91,13629,45,0,1,0,0,7,1,0,0,1,0,1,1,1,1,1,1,0,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, active",Inflammation - unclassified
+90,12612,44,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Crohns,Endoscopy,"Non-specific inflammation, chronic",Normal
+96,13087,35,0,1,0,1,7,1,0,0,1,0,1,1,1,2,1,0,1,0,0,1,0,0,Crohns,Endoscopy,Crohns,Chronic idiopathic IBD - highly suggestive of Crohn's disease
+92,11549,36,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Crohns,Endoscopy,"Non-specific inflammation, chronic",Normal
+95,22580,38,1,1,0,0,7,1,0,0,1,0,3,1,0,0,1,0,0,0,0,0,0,0,Crohns,Endoscopy,IBD ?UC,Inflammation - unclassified
+91,11662,21,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, quiescent",Normal
+94,15757,52,0,1,2,2,5,1,0,0,1,0,1,1,0,0,1,1,1,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - indeterminate
+91,13137,68,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Crohns,Endoscopy,Normal,Normal
+91,2321,44,1,1,2,3,5,1,0,0,0,1,2,1,0,0,2,3,2,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, active",Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+87,10674,67,1,1,0,0,7,1,0,0,0,1,0,0,0,0,1,1,1,0,0,0,0,0,Crohns,Endoscopy,"IBD indeterminate, active",Chronic idiopathic IBD - suggestive of ulcerative colitis
+92,9549,79,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+96,1891,58,0,0,0,1,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, active",Chronic idiopathic IBD - suggestive of ulcerative colitis
+96,6411,48,0,1,0,2,7,1,0,0,0,1,2,1,0,0,2,0,2,0,0,0,0,0,UC,Endoscopy,IBD ?UC,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+90,6395,23,0,0,0,0,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Crohns,Endoscopy,"IBD indeterminate, active",Normal
+91,13487,62,0,1,2,2,7,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,Crohns,Resection,Crohns,Chronic idiopathic IBD - indeterminate
+90,14665,35,1,0,0,1,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,Normal,Chronic idiopathic IBD - indeterminate
+90,7837,34,1,1,1,1,7,1,0,0,1,0,1,1,0,0,1,0,0,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, active",Chronic idiopathic IBD - indeterminate
+91,4812,63,1,1,0,0,7,1,0,0,1,0,2,2,0,0,1,0,0,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, quiescent",Inflammation - unclassified
+96,12303,79,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+92,5459,31,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,UC,Normal
+90,3900,61,0,1,0,0,7,1,0,0,0,1,3,2,2,1,2,3,2,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+91,13977,27,1,1,0,0,7,1,0,0,0,1,3,2,2,2,2,3,2,0,0,0,0,0,UC,Endoscopy,UC,Inflammation - unclassified
+90,11513,86,1,1,0,1,7,1,0,0,0,1,2,2,1,1,2,3,1,0,0,0,0,0,UC,Endoscopy,IBD ?Crohns,Chronic idiopathic IBD - suggestive of ulcerative colitis
+91,11478,28,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+90,10172,76,0,1,0,0,7,1,0,0,0,1,1,1,0,0,2,1,0,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, active",Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+91,7856,60,0,0,0,0,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Inflammation - unclassified
+90,5526,59,0,1,1,2,7,1,0,0,0,1,2,1,0,0,1,3,2,0,0,0,0,0,UC,Endoscopy,IBD ?UC,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+92,14004,50,1,1,1,3,4,1,0,0,0,1,1,1,0,0,1,2,3,0,0,0,0,0,UC,Resection,IBD ?UC,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+90,14326,37,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+90,10577,83,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+91,11210,56,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Resection,"IBD indeterminate, quiescent",Normal
+91,13522,42,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal, ,Normal,Normal
+92,625,71,1,1,0,1,7,1,0,0,0,1,1,1,2,2,1,0,2,0,0,0,0,0,UC,Resection,UC,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+91,2181,63,1,1,0,1,7,1,0,0,0,1,2,1,0,0,2,0,1,0,0,0,0,1,UC,Endoscopy,"IBD indeterminate, active",Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+90,14723,44,1,1,1,1,7,1,0,0,0,1,2,2,0,0,2,1,2,0,0,0,0,0,Crohns,Endoscopy,IBD ?Crohns,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+96,2911,35,1,1,1,1,7,1,0,0,1,0,1,1,0,0,1,0,0,0,0,0,0,0,Crohns,Endoscopy,IBD ?Crohns,Chronic idiopathic IBD - indeterminate
+96,23859,38,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+92,9837,84,1,1,1,2,5,1,0,0,0,1,2,2,1,3,2,2,2,0,0,0,0,0,UC,Endoscopy,IBD ?UC,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+91,12941,62,1,1,1,1,7,1,0,1,0,0,1,1,0,0,1,0,1,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - indeterminate
+90,12191,25,0,1,1,1,7,1,0,0,0,1,2,1,1,2,2,2,2,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+92,7084,60,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+90,4367,45,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,UC,Normal
+95,22581,48,1,1,0,0,7,1,0,0,1,0,1,1,0,0,1,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Inflammation - unclassified
+96,19769,78,0,1,2,1,7,1,0,0,0,1,1,1,0,0,1,0,1,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, active",Chronic idiopathic IBD - suggestive of ulcerative colitis
+91,5835,45,0,1,0,0,7,1,0,0,0,1,3,2,0,0,2,2,1,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - suggestive of ulcerative colitis
+91,2508,61,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Crohns,Endoscopy,Normal,Normal
+92,7468,19,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Resection,"IBD indeterminate, active",Normal
+92,6449,64,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+92,8264,68,1,1,0,0,7,1,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, active",Inflammation - unclassified
+91,9595,32,0,1,1,2,3,1,0,0,0,1,2,2,0,0,2,2,2,0,0,0,0,1,UC,Endoscopy,"IBD indeterminate, quiescent",Chronic idiopathic IBD - indeterminate
+94,21364,40,0,1,0,1,7,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,UC,Endoscopy,UC,Inflammation - unclassified
+95,23102,27,0,1,0,0,7,1,0,0,1,0,2,2,0,0,1,0,0,0,0,0,0,0,Crohns,Endoscopy,IBD ?Crohns,Chronic idiopathic IBD - suggestive of Crohn's disease
+91,11787,63,1,1,2,2,7,1,0,0,0,1,3,2,0,0,2,2,1,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, active",Chronic idiopathic IBD - suggestive of ulcerative colitis
+91,14273,77,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, quiescent",Normal
+95,23252,43,1,0,0,2,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,"Non-specific inflammation, chronic",Chronic idiopathic IBD - suggestive of ulcerative colitis
+92,15260,28,1,1,0,0,7,1,1,0,0,0,1,1,0,0,1,2,2,0,0,0,0,0,UC,Resection,IBD ?UC,Inflammation - unclassified
+92,3822,65,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Crohns,Endoscopy,Melanosis coli,Normal
+91,12074,47,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+92,1072,56,0,1,2,3,4,1,0,0,0,1,2,1,0,0,1,2,2,0,0,0,0,0,UC,Resection,UC,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+92,5867,59,0,1,1,2,7,1,0,0,0,1,2,2,1,2,2,3,2,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, quiescent",Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+92,1887,51,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+90,2922,41,1,1,1,1,7,1,0,0,0,1,1,1,0,0,2,3,1,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - suggestive of ulcerative colitis
+91,12895,54,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+92,8312,76,1,0,0,0,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Crohns,Endoscopy,"IBD indeterminate, active",Inflammation - unclassified
+92,8615,37,0,0,0,0,7,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,UC,Inflammation - unclassified
+90,2690,35,1,0,0,0,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Crohns,Endoscopy,Crohns,Normal
+92,8089,20,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+90,13768,41,0,1,0,1,7,1,0,0,0,1,2,2,0,0,2,3,1,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, active",Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+91,7822,20,0,1,0,0,7,1,0,0,1,0,2,2,0,0,1,1,1,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - suggestive of Crohn's disease
+91,1475,26,1,0,0,0,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Crohns,Endoscopy,Crohns,Inflammation - unclassified
+90,14395,23,0,1,0,0,7,1,0,0,0,1,1,1,0,0,2,2,2,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+90,14512,18,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Crohns,Endoscopy,Normal - oedema,Normal
+91,12995,39,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+90,8022,39,1,1,0,0,7,1,0,0,0,1,3,2,1,3,2,2,1,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, active",Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+92,6036,62,0,1,1,2,5,1,0,0,0,1,1,1,1,1,1,0,2,0,0,0,0,0,UC,Resection,"IBD indeterminate, active",Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+91,4730,39,0,1,0,0,7,1,0,0,0,1,1,1,1,1,1,1,1,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - suggestive of ulcerative colitis
+96,14607,53,0,0,0,0,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Other colitis Melanosis coli
+93,1024,48,0,1,0,0,7,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, active",Inflammation - unclassified
+92,3741,61,0,0,2,2,5,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, active",Chronic idiopathic IBD - suggestive of ulcerative colitis
+95,16124,50,0,0,1,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - indeterminate
+96,3883,46,1,1,0,0,7,1,0,0,1,0,1,1,0,0,1,0,0,1,0,1,0,0,Crohns,Endoscopy,IBD ?Crohn's,Chronic idiopathic IBD - suggestive of Crohn's disease
+93,953,29,1,0,0,1,7,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,UC,Resection,UC,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+93,658,39,1,0,0,0,7,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,UC,Resection,UC,Chronic idiopathic IBD - suggestive of ulcerative colitis
+95,9331,52,0,1,1,1,7,1,0,0,1,0,2,2,1,2,1,0,1,0,0,0,0,0,Crohns,Endoscopy,Crohns,Chronic idiopathic IBD - indeterminate
+90,10066,61,0,1,0,0,7,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, active",Inflammation - unclassified
+90,11625,26,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Crohns,Endoscopy,"IBD indeterminate, quiescent",Normal
+96,23860,31,0,1,1,2,7,1,0,0,0,1,3,2,2,2,2,3,2,0,0,0,0,0,UC,Endoscopy,IBD ?UC,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+95,12462,29,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,UC,Normal
+91,9716,32,1,1,2,2,6,1,0,0,0,1,1,1,1,1,1,0,0,0,0,0,0,0,UC,Resection,IBD ?UC,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+90,2003,18,0,1,0,1,7,1,0,0,1,0,2,1,1,2,1,2,1,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - suggestive of ulcerative colitis
+90,3776,54,0,0,0,1,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Crohns,Endoscopy,Crohns,Chronic idiopathic IBD - indeterminate
+92,6472,29,0,0,0,0,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Inflammation - unclassified
+91,7625,82,1,1,0,0,7,1,0,0,1,0,1,1,0,0,1,1,1,0,0,0,0,0,UC,Endoscopy,UC,Inflammation - unclassified
+96,2910,43,0,1,0,1,7,1,0,0,1,0,2,1,1,2,1,2,2,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - indeterminate
+94,19363,42,1,1,2,2,7,1,0,0,0,1,1,1,0,0,2,3,2,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+91,11087,60,0,1,2,2,4,1,0,0,0,1,2,2,1,1,1,2,2,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - suggestive of ulcerative colitis
+90,1255,73,0,0,0,0,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+90,13682,47,0,1,1,1,7,1,0,0,0,1,1,1,1,1,2,1,2,0,0,0,0,0,Crohns,Endoscopy,"IBD indeterminate, active",Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+95,12395,52,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+90,10782,74,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Crohns,Endoscopy,"IBD indeterminate, quiescent",Normal
+92,7701,83,1,1,0,1,7,1,0,0,1,0,1,1,0,0,1,2,0,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, active",Chronic idiopathic IBD - indeterminate
+95,14035,51,1,1,0,0,7,1,0,0,1,0,2,1,0,0,1,0,1,0,0,0,0,0,Crohns,Endoscopy,Crohns,Chronic idiopathic IBD - suggestive of Crohn's disease
+96,9296,48,0,1,0,1,7,1,0,0,1,0,1,1,1,1,1,0,0,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, quiescent",Chronic idiopathic IBD - indeterminate
+92,1007,26,1,0,0,0,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, active",Inflammation - unclassified
+90,9600,25,1,1,0,0,7,1,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,Crohns,Endoscopy,Crohns,Chronic idiopathic IBD - indeterminate
+90,10684,74,0,1,0,0,7,1,0,0,1,0,1,1,0,0,1,2,1,0,0,1,1,0,Crohns,Endoscopy,Crohns,Chronic idiopathic IBD - highly suggestive of Crohn's disease
+91,2812,47,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, quiescent",Normal
+96,3316,54,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endosocpy,Normal,Normal
+90,7491,48,0,1,2,1,7,1,0,0,1,0,1,1,1,1,1,1,1,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - indeterminate
+91,9877,40,0,1,2,2,4,1,0,0,0,1,1,1,0,0,1,0,1,1,0,0,0,0,UC,Resection,UC,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+90,11415,27,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+94,14229,74,0,1,0,0,7,1,0,0,0,1,1,1,1,1,2,3,1,0,0,0,0,0,Crohns,Endoscopy,Crohns,Chronic idiopathic IBD - suggestive of ulcerative colitis
+88,12811,40,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, active",Normal
+91,10536,42,0,1,1,0,7,1,0,0,1,0,1,1,0,0,1,0,0,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, quiescent",Inflammation - unclassified
+92,1686,53,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+92,4207,46,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, quiescent",Normal
+91,1407,20,0,0,0,0,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,IBD ?UC,Inflammation - unclassified
+96,13086,75,0,1,0,1,7,1,0,1,0,0,1,1,0,0,1,0,1,0,0,0,0,0,Crohns,Endoscopy,"IBD indeterminate, active",Chronic idiopathic IBD - indeterminate
+90,14454,42,0,1,0,0,7,1,0,0,1,0,1,1,0,0,1,0,0,0,0,0,0,0,UC,Endoscopy,UC,Normal
+92,1982,35,0,0,0,1,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,UC,Endoscopy,"IBD indeterminate, quiescent",Chronic idiopathic IBD - indeterminate
+92,6389,53,0,1,0,1,7,1,0,0,1,0,1,1,1,2,1,2,1,0,0,0,0,0,UC,Endoscopy,IBD ?Crohns,Chronic idiopathic IBD - indeterminate
+90,8063,29,0,1,0,0,7,1,0,0,0,1,3,1,2,2,2,3,1,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, active",Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+90,8691,46,0,1,1,2,6,1,0,0,0,1,1,1,1,2,1,3,1,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+92,14949,39,1,1,2,2,5,1,0,0,0,1,1,1,0,0,1,0,2,0,0,0,0,0,UC,Resection,UC,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+93,4045,34,1,0,0,0,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Crohns,Resection,Diversion colitis,Normal
+91,12328,74,1,1,2,2,4,1,0,0,0,1,2,1,0,0,1,0,2,0,0,0,0,0,UC,Resection,UC,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+91,1448,69,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Crohns,Endoscopy,Crohns,Normal
+91,10535,26,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+91,9810,29,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Crohns,Endoscopy,"Non-specific inflammation, chronic",Normal
+91,11648,74,1,1,2,2,3,1,0,0,0,1,2,2,0,0,1,2,1,0,0,0,0,0,UC,Resection,UC,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+95,18369,56,0,1,1,2,6,1,0,0,1,0,1,1,1,2,1,0,2,0,0,0,0,1,UC,Endoscopy,"IBD indeterminate, active",Chronic idiopathic IBD - indeterminate
+91,8851,73,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, quiescent",Normal
+95,16113,38,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Melanosis coli,Normal
+95,11957,33,0,1,1,1,7,1,0,0,1,0,1,1,0,0,1,0,0,0,0,1,0,0,Crohns,Endoscopy,Crohns,Chronic idiopathic IBD - highly suggestive of Crohn's disease
+92,7283,31,0,1,0,0,7,1,0,0,1,0,1,1,1,1,1,0,1,0,0,0,0,0,Crohns,Resection,"IBD indeterminate, active",Chronic idiopathic IBD - suggestive of Crohn's disease
+92,3512,79,0,1,0,1,7,1,0,0,1,0,2,1,2,2,1,0,2,0,0,0,0,0,Crohns,Endoscopy,"IBD indeterminate, active",Chronic idiopathic IBD - suggestive of ulcerative colitis
+90,3240,34,1,1,1,2,7,1,0,0,0,1,2,2,0,0,2,3,2,0,0,0,0,0,UC,Endoscopy,IBD ?UC,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+90,14094,79,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+93,9204,39,0,1,1,2,7,1,0,0,0,1,2,1,0,0,2,3,2,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+91,12222,14,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+92,7400,63,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,Normal,Normal
+90,11512,52,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,UC,Normal
+95,13989,38,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Melanosis coli,Normal
+95,2140,52,1,1,0,1,7,1,0,0,1,0,1,1,0,0,1,0,1,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - indeterminate
+93,14578,55,0,1,0,0,7,1,0,0,0,1,1,1,0,0,1,3,0,0,0,0,0,0,Crohns,Resection,Crohns,Chronic idiopathic IBD - indeterminate
+91,1181,44,1,0,0,0,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Crohns,Endoscopy,"Non-specific inflammation, chronic",Inflammation - unclassified
+94,6156,76,0,1,1,1,7,1,0,0,0,1,2,1,1,1,2,1,1,0,0,0,0,0,UC,Endoscopy,IBD ?Crohns,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+90,10574,45,0,1,1,1,4,1,0,0,0,1,2,2,0,0,2,1,1,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+91,9809,29,1,1,0,2,7,1,0,0,0,1,2,2,2,2,2,2,2,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - indeterminate
+91,9532,31,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+92,1687,35,0,1,1,1,7,1,0,0,0,1,1,1,0,0,2,0,0,0,0,0,0,0,UC,Endoscopy,IBD ?UC,Chronic idiopathic IBD - suggestive of ulcerative colitis
+90,7230,61,0,1,0,1,7,1,0,0,0,1,1,2,1,3,1,3,1,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+90,14363,45,0,1,2,2,5,1,0,0,0,1,1,1,0,0,2,1,2,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - suggestive of ulcerative colitis
+95,1409,37,0,0,0,0,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Crohns,Endoscopy,Normal,Inflammation - unclassified
+90,8393,59,0,1,0,0,7,1,0,0,1,0,1,1,0,0,1,0,0,0,0,0,0,0,UC,Endoscopy,IBD ?UC,Chronic idiopathic IBD - indeterminate
+96,18981,30,1,1,1,1,7,1,0,0,1,0,2,1,0,0,1,1,0,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, active",Chronic idiopathic IBD - indeterminate
+96,21229,47,0,0,1,3,5,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,UC,Resection,IBD ?UC,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+95,14494,55,0,0,2,2,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - indeterminate
+90,13752,44,1,0,0,0,7,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,Crohns,Endoscopy,"Non-specific inflammation, chronic",Normal
+92,6249,46,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, quiescent",Normal
+90,1252,61,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+91,10892,81,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, quiescent",Normal
+89,9325,37,1,1,1,1,7,1,0,0,0,1,1,1,1,1,1,1,2,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, active",Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+90,5225,25,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Crohns,Endoscopy,Normal,Normal
+96,4438,67,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+96,20294,59,1,0,0,1,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - indeterminate
+94,19857,50,1,1,2,3,5,1,0,0,1,0,1,1,0,0,1,3,2,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - indeterminate
+90,2434,62,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,UC,Normal
+96,21272,40,1,1,0,1,7,1,0,0,1,0,2,1,0,0,1,1,2,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, active",Chronic idiopathic IBD - indeterminate
+92,3188,34,0,1,1,2,5,1,0,0,0,1,2,2,0,0,2,3,3,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, active",Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+92,8018,68,1,1,0,0,7,1,0,0,0,1,3,2,0,0,2,1,0,0,0,0,0,0,UC,Endoscopy,IBD ?UC,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+91,3650,40,0,0,1,3,4,1,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - suggestive of ulcerative colitis
+96,8244,45,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+91,12635,25,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+90,12281,54,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+92,8114,40,0,0,0,1,7,1,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - indeterminate
+91,5638,63,0,1,1,2,4,1,0,0,0,1,2,2,1,2,2,2,2,0,0,0,0,0,UC,Endoscopy,UC,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+90,7339,26,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,"Non-specific inflammation, chronic",Normal
+91,6763,47,0,1,0,1,7,1,0,0,1,0,1,1,0,0,1,3,2,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, active",Chronic idiopathic IBD - suggestive of Crohn's disease
+92,2730,53,0,1,0,0,7,1,0,0,0,1,2,2,1,2,2,2,2,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, active",Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+90,3564,37,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+91,318,69,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Crohns,Endoscopy,"Non-specific inflammation, chronic",Normal
+96,8235,34,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Normal,Endoscopy,Normal,Normal
+94,14156,46,1,1,1,2,7,1,0,0,0,1,2,1,1,1,2,1,2,0,0,0,0,1,Crohns,Endoscopy,Crohns,Chronic idiopathic IBD - highly suggestive of ulcerative colitis
+92,9028,40,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Crohns,Endoscopy,Normal,Normal
+94,16462,62,1,1,0,0,7,1,0,0,1,0,1,1,0,0,1,3,2,0,0,0,0,1,Crohns,Endoscopy,Crohns,Chronic idiopathic IBD - indeterminate
+91,2396,33,0,0,1,1,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Crohns,Endoscopy,"Non-specific inflammation, chronic",Chronic idiopathic IBD - indeterminate
+91,8203,32,0,0,0,0,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UC,Endoscopy,"IBD indeterminate, active",Inflammation - unclassified
+91,255,40,0,1,0,0,7,1,0,0,0,1,1,1,0,0,2,3,0,0,0,0,0,0,Crohns,Endoscopy,Crohns,Inflammation - unclassified
